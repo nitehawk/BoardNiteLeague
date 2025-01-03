@@ -1,12 +1,14 @@
 ## Board Nite League
 Outcomes from board game nights at https://twitch.tv/nite97m
 
+[Current Season](https://github.com/nitehawk/BoardNiteLeague/blob/main/2025-S1/Standings.md)
 
 # Rules
 * Play nice, according to the rules of the game being played
 
-# Prizes
-1. $10 Amazon Gift card
+# Potential prize suggestions
+* See season page for information on that season's prizes
+* $10 Amazon Gift card
 
 
 # Scoring
