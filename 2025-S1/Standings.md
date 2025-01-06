@@ -4,7 +4,13 @@ Games from January 1st through March 31st
 
 |Player|GP|Points|
 |------|------------|------|
-|Nite|0|0|
+|Glammie|1|7|
+|Numbers|1|7|
+|Dacolicious|1|7|
+|Animehero|1|5|
+|YoungNastyman|1|3|
+|Lina|1|3|
+|Nite|1|1|
 
 
 
